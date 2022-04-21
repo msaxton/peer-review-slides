@@ -21,7 +21,7 @@ Peer review is a collaborative process that allows independent experts in the sa
 
 * the ideas are clearly presented
 
-* conclusion are reliable and supported by research
+* conclusions are reliable and supported by research
 
 
 ### What does useful feedback look like?
@@ -69,4 +69,4 @@ Evaluate the following on a scale of 1 (needs improvement) to 5 (excellent). Giv
 
 * The ideas in the paper are clearly expressed.
 
-* The conclusion(s) are well supported by the methodology, arguments, and evidence. 
+* The conclusions are well supported by the methodology, arguments, and evidence. 
