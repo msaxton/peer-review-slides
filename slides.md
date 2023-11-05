@@ -55,18 +55,16 @@ Peer review is a collaborative process that allows independent experts in the sa
 ### Peer (and self) review for this class:
 Evaluate the following on a scale of 1 (needs improvement) to 5 (excellent). Give a few sentences explaining your evaluation.
 
-* The paper fits the nature and scope of the assignment (see course syllabus)
+(Remember you are only viewing ~5 pages of a complete work)
 
-* The paper contains an identifiable thesis which is original, significant, and fits the criteria for this class.
+* The review contans more synthesis than summary of reviewied titles.
 
-* The paper outlines a methodology or theoretical framework appropriate to the research question. 
+* The ideas are clearly expressed.
 
-* The paper makes effective use of sources (4-6 primary and 10-15 secondary). Remember the BEAM model:
-    * Background sources
-    * Exhibit sources
-    * Argument sources
-    * Method or Theory sources
+* The transitions between sections and/or paragraphs are smooth and logical.
 
-* The ideas in the paper are clearly expressed.
+* The author demostrates an informed knowledge of the subject matter.
 
-* The conclusions are well supported by the methodology, arguments, and evidence. 
+* If there is an introduction present, it clearly states the research question and defines the themes, scope, and sequence of the review.
+
+* If there is a conclusion present, it briefly summarizes the major trends and themes in the literature and identifies areas open for further research.
